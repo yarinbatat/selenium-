@@ -1,0 +1,5 @@
+requests
+awscli
+flask
+boto3
+selenium
